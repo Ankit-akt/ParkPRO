@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ParkPRO</string>
+    <string name="parkpro">ParkPRO</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="find_nearest">Find nearest</string>
+    <string name="ev_charging_stations">EV charging stations</string>
+    <string name="ev_station">ev station</string>
+    <string name="find">FIND</string>
+    <string name="find_parking_in_just_1_click">Find parking in just 1 click!</string>
+    <string name="car_image">car image</string>
+    <string name="user_image">user image</string>
+    <string name="contact_us">CONTACT US</string>
+    <string name="home">HOME</string>
+</resources>
